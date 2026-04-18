@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7VplZYWaJrfo/9LaSs6VXmBJM1ImmA6FtImbQKxvvMQs0BbB2MD8mM7TZghl8FM1Kaexy3R88/8zJgwehsvAHA==",
+  "dgSpecHash": "5EwCJynwclw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VitielloNaVoz\\Desktop\\dev\\projetos\\av2-conceitos-de-linguagem-de-programacao\\ProjetoPOO\\ProjetoPOO\\ProjetoPOO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\VitielloNaVoz\\Downloads\\POO-Conceitos-Paradigmas-Programacao\\ProjetoPOO\\ProjetoPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VitielloNaVoz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\VitielloNaVoz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\VitielloNaVoz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\VitielloNaVoz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
